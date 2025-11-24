@@ -1,4 +1,4 @@
-# 🛡️ **MonkDB Encryption Project — Beginner Friendly**
+# 🛡️ **MonkDB Encryption Project**
 
 A complete beginner-level implementation of **JavaScript-based hashing & HMAC encryption** inside **MonkDB** using:
 
